@@ -13,7 +13,8 @@ Components:
 6. Examples (Optional)
 "Similar to: [example code]"
 
-SLIDE 7: Bad vs Good Prompts
+
+ Bad vs Good Prompts
 ❌ Bad Prompt:
 "Make a login system"
 Problems:
